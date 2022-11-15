@@ -7,8 +7,7 @@ This a repository containing mods for [Hangman Forever](https://notexplosive.itc
 Download mod by doing the following:
 
 - Right click a link below
-- Click "Save link as"
-- Save the `.hmm` file
+- Click "Save link as" then hit save
 - Once downloaded, move the file into your Hangman Forever `Mods` directory, next to `base-game.hmm`.
 
 ## [Wheel of Fortune](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/wof-31-32-33.hmm)
