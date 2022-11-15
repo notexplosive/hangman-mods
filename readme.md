@@ -20,7 +20,7 @@ Puzzles aggregated from the Wheel of Fortune Compendium. Includes puzzles from s
 
 [Download](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/game-grumps.hmm)
 
-Puzzles designed by NotExplosive. Meant to be enjoyed by Game Grumps fans.
+Puzzles to be enjoyed by Game Grumps fans.
 
 ## More Mods
 
