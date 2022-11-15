@@ -10,11 +10,15 @@ Download mod by doing the following:
 - Click "Save link as" then hit "Save"
 - Once downloaded, move the file into your Hangman Forever `Mods` directory, next to `base-game.hmm`.
 
-## [Wheel of Fortune](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/wof-31-32-33.hmm)
+## Wheel of Fortune Mod
+
+[Download](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/wof-31-32-33.hmm)
 
 Puzzles aggregated from the Wheel of Fortune Compendium. Includes puzzles from seasons 31, 32, and 33.
 
-## [Game Grumps](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/game-grumps.hmm)
+## Game Grumps Mod
+
+[Download](https://raw.githubusercontent.com/notexplosive/hangman-mods/main/game-grumps.hmm)
 
 Puzzles designed by NotExplosive. Meant to be enjoyed by Game Grumps fans.
 
